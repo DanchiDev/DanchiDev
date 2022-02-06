@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanchiDev
 - 👀 I’m interested in web development and system administration
-- 🌱 I’m currently learning PHP,MYSQL,Networking 
-- 📫 How to reach me: you can send me a message on discord FR0ST#3275
+- 🌱 I’m currently learning MERN Stack Dev 
+- 📫 How to reach me: you can send me a message on discord D4NCH1#4851
 
 <!---
 DanchiDev/DanchiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
